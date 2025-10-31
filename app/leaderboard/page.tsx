@@ -1,0 +1,1 @@
+export default function Page(){return(<div className='p-8'>Leaderboard coming soon.</div>);}

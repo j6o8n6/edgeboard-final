@@ -1,0 +1,1 @@
+export default function Page(){return(<div className='p-8'>Feed will go here.</div>);}
